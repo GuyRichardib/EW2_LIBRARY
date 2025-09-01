@@ -7,6 +7,7 @@ public class Book {
     private int publicationYear;
     private String isbn;
     private int availableCopies;
+    String testAnnelies;
 
     public Book() {
 

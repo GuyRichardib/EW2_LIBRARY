@@ -1,4 +1,4 @@
-package model;
+package be.intecbrussel.library.model;
 
 import java.time.LocalDate;
 
